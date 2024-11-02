@@ -1,3 +1,6 @@
 transformers
 nltk
 torch
+sentencepiece
+fastapi
+uvicorn
