@@ -12,6 +12,9 @@ Python, NodeJS, VueJS
 ## Install necessary libraries
 `pip install -r requirements.txt`
 
+## Setup model
+Download and unzip archive from `https://drive.google.com/file/d/1Zvc7CdEC6u3kogj2PxPo7Qz9NNZL6PJn/view`
+
 ## Run BackEnd
 `uvicorn main:app --reload`
 

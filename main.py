@@ -1,8 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from model2 import Summ_Model
+from model import Summ_Model
 
-model = Summ_Model("./model2")
+model = Summ_Model("./model")
 
 app = FastAPI()
 
