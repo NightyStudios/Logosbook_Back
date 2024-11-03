@@ -1,3 +1,6 @@
 [submodule "SiteZv"]
 	path = SiteZv
 	url = https://github.com/RemindZ2/SiteZv
+[submodule "Logosbook_Front"]
+	path = Logosbook_Front
+	url = https://github.com/RemindZ2/Logosbook_Front
