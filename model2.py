@@ -1,7 +1,6 @@
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 import nltk
 
-nltk.download('punkt_tab')
 class Summ_Model():
 
     def __init__(self, path: str):

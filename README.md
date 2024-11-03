@@ -18,7 +18,7 @@ Python, NodeJS, VueJS
 ## Setup FrontEnd
 
 ```bash
-cd SiteZv
+cd Logosbook_Front
 npm install
 ```
 ## Run FrontEnd
