@@ -3,6 +3,8 @@ Book-reading app with AI features
 
 # Installation
 
+P. S. Чтобы просмотреть доп. задание нужно в запущенном приложении зайти в библиотеку и начать читать "Войну и мир"
+
 ## Stack
 Python, NodeJS, VueJS
 
